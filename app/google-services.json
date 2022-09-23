@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130368350942",
+    "firebase_url": "https://my-contact-list-3986f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-contact-list-3986f",
+    "storage_bucket": "my-contact-list-3986f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130368350942:android:651f31325d7a4ebefbb04f",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.mycontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130368350942-1iosbtbc68rfapb3de6f7l33cfup3a1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXVXFH790Wx8BFesJggSdpNeVsbpSsME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130368350942-1iosbtbc68rfapb3de6f7l33cfup3a1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
